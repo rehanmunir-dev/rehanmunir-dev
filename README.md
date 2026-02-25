@@ -14,7 +14,7 @@
 
 I transform complex business requirements into **elegant, scalable front-end solutions** that users love and clients trust.
 
-With **2.5+ years** shipping production code for real estate, construction, security, and ed-tech platforms across Pakistan, I've developed a sharp eye for:
+With **2 years** shipping production code for real estate, construction, security, and ed-tech platforms across Pakistan, I've developed a sharp eye for:
 
 - **Performance-first architecture** — Sub-3-second load times, optimized bundles
 - **Design precision** — Pixel-perfect implementation from Figma to React
