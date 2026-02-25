@@ -63,7 +63,7 @@ With **2 years** shipping production code for real estate, construction, securit
 ## 💼 Professional Experience
 
 ### Front-End Developer & UI/UX Designer
-*2022 — Present | Islamabad, Pakistan*
+*2024 — Present | Islamabad, Pakistan*
 
 - **Shipped 5+ production React applications** serving 1000+ combined users
 - **Reduced load times by 40%** through Vite migration and Tailwind optimization
