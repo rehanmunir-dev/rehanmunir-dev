@@ -210,3 +210,21 @@ Accessible Quran-learning application with reading tools, audio playback, progre
 React, Next.js, and TypeScript development
 Mobile, web, SaaS, real estate, and e-commerce design
 Projects delivered from concept to production
+
+Let's Work Together
+I'm open to collaborating on:
+
+Frontend and Next.js applications
+Business and portfolio websites
+SaaS and dashboard interfaces
+UI/UX design projects
+Figma-to-code development
+Freelance and remote opportunities
+<div align="center">
+Have a project in mind?
+
+
+
+Designing thoughtful experiences. Building reliable products.
+
+</div> ```
